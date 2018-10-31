@@ -1,10 +1,10 @@
-sudo apt-add repository main -yy
+sudo apt-add-repository main -yy
 
-sudo apt-add repository restricted -yy
+sudo apt-add-repository restricted -yy
 
-sudo apt-add repository universe -yy
+sudo apt-add-repository universe -yy
 
-sudo apt-add repository multiverse -yy
+sudo apt-add-repository multiverse -yy
 
 sudo apt update -yy
 
