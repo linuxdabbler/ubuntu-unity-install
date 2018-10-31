@@ -1,0 +1,9 @@
+This is for testing and works in virutalbox, but your mileage may vary.
+
+clone the repository, cd into the directory containing the script
+
+READ through the script
+
+sudo chod +x *.sh
+
+run the script by typing ./(name of script)
